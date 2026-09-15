@@ -28,7 +28,7 @@ The application uses **React, TensorFlow.js, Vite, Tailwind CSS, and Recharts** 
   * Temperature vs. consumption relationship
   * Historical consumption trends
 
-* 🤖 **Machine Learning Model**
+*  **Machine Learning Model**
 
   * TensorFlow.js regression model
   * Feed-forward neural network
